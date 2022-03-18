@@ -83,6 +83,10 @@ body {
 	--font-weight-circle-4: 300;
 }
 
+p{
+	font-size: 12px;
+}
+
 .monkeys{
 	opacity: 50%;
 	height: 250px;
